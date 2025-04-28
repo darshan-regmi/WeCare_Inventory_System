@@ -1,0 +1,6 @@
+Customer Name:      Darshan Regmi
+Date:               2025-04-17
+Total Amount:       ₹2000.0
+
+Product             Brand               Quantity  Free 
+Vitamin C Serum      Garnier            5         1    

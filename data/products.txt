@@ -1,0 +1,6 @@
+Vitamin C Serum, Garnier,986,200.0, France
+Skin Cleanser, Cetaphil,278,100.0, Switzerland
+Sunscreen, Aqualogica,694,200.0, India
+Softskin Lotion, Nivea,10,150.0, Germany
+Face Mask, L'Oréal,150,146.0, USA
+Lip Balm, Maybelline,495,120.0, Japan

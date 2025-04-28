@@ -1,0 +1,6 @@
+Customer Name:      Darshan Regmi
+Date:               2025-04-17
+Total Amount:       ₹1500.0
+
+Product             Brand               Quantity  Free 
+Face Mask            L'Oréal            3         1    
