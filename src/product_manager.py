@@ -1,4 +1,4 @@
-def load_products(file_path: str) -> list:
+def load_products(file_path: str):
     """
     Loads products from a file.
 
