@@ -1,6 +1,0 @@
-Customer Name:      Darshan Regmi
-Date:               2025-04-18
-Total Amount:       ₹2000.0
-
-Product             Brand               Quantity  Free 
-Sunscreen            Aqualogica         5         1    

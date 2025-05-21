@@ -1,6 +1,0 @@
-Customer Name:      Darshan
-Date:               2025-04-20
-Total Amount:       ₹960.0
-
-Product             Brand               Quantity  Free 
-Lip Balm             Maybelline         4         1    

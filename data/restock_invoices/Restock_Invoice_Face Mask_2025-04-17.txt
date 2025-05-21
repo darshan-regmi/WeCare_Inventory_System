@@ -1,9 +1,0 @@
-            Restock Invoice             
-Product             : Face Mask
-Brand               :  L'Oréal
-Quantity Restocked  : 4
-Cost Price          : ₹146.00
-Date                : 2025-04-17
-Total Amount        : ₹584.00
--------------------------               
-   Thank you for restocking with us.    
