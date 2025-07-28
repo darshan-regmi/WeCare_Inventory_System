@@ -31,14 +31,14 @@ This project is a Python-based application designed to manage sales, stock, and 
    ```bash
    git clone https://github.com/darshan-regmi/WeCare_Inventory_System.git
    ```
-2. Install dependencies from requirements.txt:
+2. Go to the project directory:
    ```bash
-pip install -r requirements.txt
-```
+	cd WeCare_Inventory_System
+   ```
 3. Run the application:
    ```bash
-python main.py
-```
+	python main.py
+   ```
 
 ---
 
@@ -53,18 +53,6 @@ After running the application, you will be presented with a main menu. The optio
 * **Restock Products**: Add more products to the stock and update their details.
 * **Generate Invoice**: After processing a sale or restocking, an invoice will be generated in .txt format with all relevant details.
 * **Exit**: Close the application when done.
-
-## Requirements
-
-* Python 3.8 or higher
-* pip 20.0 or higher
-* Required dependencies listed in requirements.txt:
-	+ pandas (optional for structured data handling)
-
-To install the required dependencies, run:
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
