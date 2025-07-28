@@ -23,21 +23,26 @@ This project is a Python-based application designed to manage sales, stock, and 
 * Python 3.8 or higher
 * pip 20.0 or higher
 * Required dependencies listed in requirements.txt:
-	+ pandas (optional for structured data handling)
+  * pandas (optional for structured data handling)
 
 ### Steps to Install
 
 1. Clone the repository using the following command:
+
    ```bash
    git clone https://github.com/darshan-regmi/WeCare_Inventory_System.git
    ```
+
 2. Go to the project directory:
+
    ```bash
-	cd WeCare_Inventory_System
+   cd WeCare_Inventory_System
    ```
+
 3. Run the application:
+
    ```bash
-	python main.py
+   python main.py
    ```
 
 ---
@@ -58,18 +63,17 @@ After running the application, you will be presented with a main menu. The optio
 
 ## File Structure
 
-```
+```bash
 WeCare_Inventory_System/
 │
-├── data/
-│   ├── products.txt              # Store product data (name, brand, stock, cost, etc.)
-│
-├── invoices/                     # Folder for storing generated invoices (sales and restocking)
-│
-├── main.py                       # Main program file for running the system
-├── requirements.txt              # List of dependencies for the project
-├── README.md                     # Project documentation
-└── LICENSE                       # Project license file
+├── data
+│   └── products.txt
+├── main.py
+├── README.md
+└── src
+   ├── product_manager.py
+   ├── restock_manager.py
+   └── sale_manager.py
 ```
 
 ---
@@ -107,7 +111,7 @@ This Beauty and Skin Care Shop Management System simplifies inventory management
 
 By using this application, WeCare can enhance their store management, improve operational efficiency, and provide a better experience for both customers and administrators.
 
-### Key Changes/Improvements:
+### Key Changes/Improvements
 
 1. **Features** section describes all core functionalities of the system.
 2. **Installation** section includes the steps to clone and run the application.
