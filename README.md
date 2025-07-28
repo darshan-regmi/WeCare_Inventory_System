@@ -1,8 +1,6 @@
 # WeCare Inventory System
-=====================================================
 
 ## Overview
---------
 
 This project is a Python-based application designed to manage sales, stock, and restocking of beauty and skincare products in a store. It implements a "Buy 3, Get 1 Free" policy, updates stock in real-time, and generates invoices for both sales and restocking transactions. The system allows administrators to manage inventory, process transactions, and generate VAT invoices for sales and restocking.
 
@@ -19,7 +17,6 @@ This project is a Python-based application designed to manage sales, stock, and 
 ---
 
 ## Installation
---------
 
 ### Prerequisites
 
@@ -46,7 +43,6 @@ python main.py
 ---
 
 ## Usage
---------
 
 ### Main Menu
 
@@ -58,10 +54,7 @@ After running the application, you will be presented with a main menu. The optio
 * **Generate Invoice**: After processing a sale or restocking, an invoice will be generated in .txt format with all relevant details.
 * **Exit**: Close the application when done.
 
----
-
 ## Requirements
---------
 
 * Python 3.8 or higher
 * pip 20.0 or higher
@@ -76,7 +69,6 @@ pip install -r requirements.txt
 ---
 
 ## File Structure
---------
 
 ```
 WeCare_Inventory_System/
@@ -95,7 +87,6 @@ WeCare_Inventory_System/
 ---
 
 ## Contributing
---------
 
 We welcome contributions to improve the project! To contribute:
 
@@ -109,14 +100,12 @@ All contributions must adhere to the code of conduct and project standards.
 ---
 
 ## License
---------
 
 This project is licensed under the MIT License. See LICENSE for more details.
 
 ---
 
 ## Acknowledgements
---------
 
 * Python: Programming language used for building the application.
 * VS Code: Text editor used during development.
@@ -125,7 +114,6 @@ This project is licensed under the MIT License. See LICENSE for more details.
 ---
 
 ## Conclusion
---------
 
 This Beauty and Skin Care Shop Management System simplifies inventory management and transaction processing by automating tasks like stock updates, sales processing, and invoice generation. The program provides an efficient way for the shop to track product sales, manage stock levels, and generate accurate reports for both sales and restocking. It also follows the “Buy 3, Get 1 Free” policy, ensuring that the shop’s marketing offer is applied seamlessly during sales transactions.
 
