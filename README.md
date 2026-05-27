@@ -78,46 +78,12 @@ WeCare_Inventory_System/
 
 ---
 
-## Contributing
+## Project Context
 
-We welcome contributions to improve the project! To contribute:
-
-1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name for your changes.
-3. Make your changes and commit them with a detailed commit message.
-4. Push your changes and open a pull request with a description of the changes.
-
-All contributions must adhere to the code of conduct and project standards.
+Built as a coursework project for Fundamentals of Computing, demonstrating modular Python design, file-based data persistence, and terminal UI patterns.
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE for more details.
-
----
-
-## Acknowledgements
-
-* Python: Programming language used for building the application.
-* VS Code: Text editor used during development.
-* GitHub: Platform for version control and collaboration.
-
----
-
-## Conclusion
-
-This Beauty and Skin Care Shop Management System simplifies inventory management and transaction processing by automating tasks like stock updates, sales processing, and invoice generation. The program provides an efficient way for the shop to track product sales, manage stock levels, and generate accurate reports for both sales and restocking. It also follows the “Buy 3, Get 1 Free” policy, ensuring that the shop’s marketing offer is applied seamlessly during sales transactions.
-
-By using this application, WeCare can enhance their store management, improve operational efficiency, and provide a better experience for both customers and administrators.
-
-### Key Changes/Improvements
-
-1. **Features** section describes all core functionalities of the system.
-2. **Installation** section includes the steps to clone and run the application.
-3. **File Structure** provides a quick view of the organization of files in the project.
-4. **Contributing** section gives guidelines on how to contribute.
-5. **License** section specifies that the project is under the MIT License.
-6. **Conclusion** summarizes the impact of the project and how it benefits the store.
-
-This should give users all the information they need to set up, run, and contribute to your project.
+MIT
